@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "name": "name",
+      "host": "serverhostname",
+      "remotePort": 3000,
+      "localPort": 8000,
+      "bastion": "xxx-bastion1"
+    }
+  ]
+}
+
+
